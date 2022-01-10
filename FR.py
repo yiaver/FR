@@ -1,6 +1,6 @@
 import re
 
-class Filtro_brain():
+class FR():
     def __init__(self,content=str):
         if content == False:
             return False
